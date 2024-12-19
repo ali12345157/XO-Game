@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XO Game</string>
+    <string name="player1_x">Player1 (X)</string>
+    <string name="player_1_s_turn">Player 1’s Turn</string>
+</resources>
